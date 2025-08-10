@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<!--
-**shiva9752/shiva9752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am Shivansh Gupta
 
 Here are some ideas to get you started:
 
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shivansh97gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:97shiva52@gmail.com) 
